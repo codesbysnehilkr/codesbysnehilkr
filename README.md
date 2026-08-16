@@ -318,19 +318,6 @@ Creative Expression
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&width=100%" width="100%"/>
 
-<!-- ================= SPOTIFY ================= -->
-
-<div align="center">
-
-## 🎧 Now Playing
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00FF88&bar_color_cover=true" alt="Spotify now playing" />
-
-<sub>See <b>Setup Instructions → Spotify Integration</b> below to connect your own account.</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&width=100%" width="100%"/>
 
 <!-- ================= VISITOR METRICS ================= -->
 
@@ -369,20 +356,9 @@ Creative Expression
 
 </details>
 
-<details>
-<summary><b>2. Spotify "Now Playing" Integration</b></summary>
-<br/>
-
-1. Fork/deploy **spotify-github-profile** (by kittinan) to your own Vercel account: https://github.com/kittinan/spotify-github-profile
-2. Follow its README to create a Spotify Developer app and obtain a Client ID and Client Secret from https://developer.spotify.com/dashboard
-3. Deploy the project on Vercel and authorize it with your Spotify account to generate a unique `uid`.
-4. Replace `SPOTIFY_USER_ID` in the Now Playing image URL above with your generated `uid`.
-5. The card updates automatically whenever you play a track on Spotify.
-
-</details>
 
 <details>
-<summary><b>3. Custom SVG Assets (Pixel Art + ASCII Portrait)</b></summary>
+<summary><b>2. Custom SVG Assets (Pixel Art + ASCII Portrait)</b></summary>
 <br/>
 
 1. Create an `assets/` folder in this repository.
@@ -394,7 +370,7 @@ Creative Expression
 </details>
 
 <details>
-<summary><b>4. General Stats Cards</b></summary>
+<summary><b>3. General Stats Cards</b></summary>
 <br/>
 
 All stats widgets (GitHub Stats, Streak, Top Languages, Activity Graph) point to public hosted instances and require no setup beyond replacing the username. For higher reliability, you may self-host:
