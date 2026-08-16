@@ -80,31 +80,13 @@ Computer Science Engineering student passionate about Artificial Intelligence, S
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=codesbysnehilkr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff&ring_color=00FF88&count_private=true" width="450"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=codesbysnehilkr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff&ring_color=00FF88&count_private=true" width="450"/>
     </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=codesbysnehilkr&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF88" width="450"/>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesbysnehilkr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=ffffff&langs_count=8" width="400"/>
-    </td>
-  </tr>
 </table>
-
-<br/>
-
-<!-- Mirror endpoint kept as a fallback in case the primary vercel instance is rate-limited -->
-<div align="center">
-<sub>Fallback stats source (uncomment / swap in if the cards above don't load):</sub>
-
-```md
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codesbysnehilkr&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codesbysnehilkr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88"/>
-```
-
-</div>
 
 <br/>
 
@@ -373,13 +355,13 @@ Creative Expression
 <br/>
 
 1. Create a new orphan branch named `output` in this repository (the workflow pushes generated files here):
-   ```bash
+```bash
    git checkout --orphan output
    git rm -rf .
    git commit --allow-empty -m "init output branch"
    git push origin output
    git checkout main
-   ```
+```
 2. Copy `.github/workflows/snake.yml` (included in this README package) into your repository at that exact path.
 3. Go to **Settings → Actions → General → Workflow permissions** and enable **Read and write permissions**.
 4. Trigger the workflow manually once from the **Actions** tab (`Generate Snake Animation → Run workflow`), or wait for the daily cron.
