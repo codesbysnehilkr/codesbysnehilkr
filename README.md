@@ -249,8 +249,8 @@ A connected device concept that displays real-time album artwork and now-playing
 </td>
 <td width="50%">
 
-### 🌐 Full Stack Web Application
-An end-to-end web application built with a modern stack, covering authentication, data, and a polished UI.
+### 📈 Stock Market Predictor
+A machine learning-powered system that analyzes historical market data, identifies patterns, and generates predictive insights using data science and AI techniques.
 
 <a href="#"><img src="https://img.shields.io/badge/View_Repository-0d1117?style=for-the-badge&logo=github&logoColor=00FF88" /></a>
 
