@@ -13,7 +13,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=00FF88&center=true&vCenter=true&width=650&lines=AI+Enthusiast;Software+Engineer;Full+Stack+Developer;Chess+Player;Fitness+Enthusiast;Aspiring+Content+Creator;Lifelong+Learner)](https://git.io/typing-svg)
 
 <p>
-Computer Science Engineering student passionate about Artificial Intelligence, Software Engineering, Full-Stack Development, and Automation — building impactful software, playing chess, editing on DaVinci Resolve, and documenting the journey in fitness and content creation.
+Computer Science Engineering student passionate about Artificial Intelligence, Software Engineering, Full-Stack Development, and Automation, building impactful software, playing chess, editing on DaVinci Resolve, and documenting the journey in fitness and content creation.
 </p>
 
 <br/>
@@ -153,7 +153,7 @@ Computer Science Engineering student passionate about Artificial Intelligence, S
 **AI / ML**
 <br/>
 <img src="https://skillicons.dev/icons?i=py,tensorflow&theme=dark" />
-<img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00FF88" />
+<img src="https://cdn.simpleicons.org/numpy/00FF88" width="48" height="48" alt="NumPy" title="NumPy" />
 
 **Cloud**
 <br/>
@@ -165,9 +165,9 @@ Computer Science Engineering student passionate about Artificial Intelligence, S
 
 **Creative Tools**
 <br/>
-<img src="https://img.shields.io/badge/DaVinci_Resolve-0d1117?style=for-the-badge&logo=davinciresolve&logoColor=00FF88" />
-<img src="https://img.shields.io/badge/Canva-0d1117?style=for-the-badge&logo=canva&logoColor=00FF88" />
-<img src="https://img.shields.io/badge/Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=00FF88" />
+<img src="https://cdn.simpleicons.org/davinciresolve/00FF88" width="48" height="48" alt="DaVinci Resolve" title="DaVinci Resolve" />
+<img src="https://img.icons8.com/color/48/canva.png" width="48" height="48" alt="Canva" title="Canva" />
+<img src="https://img.icons8.com/color/48/adobe-photoshop.png" width="48" height="48" alt="Photoshop" title="Photoshop" />
 
 </div>
 
